@@ -1,0 +1,16 @@
+{
+    "prices":{
+        "frog": "$10.99",
+        "bunny": "$9.99",
+        "bear": "$14.99"
+    },
+    "subtotal":{
+        "frog": "$21.98",
+        "bunny": "$49.95",
+        "bear": "$44.97"
+    },
+    "total": {
+        "grand_total": "Total: 116.9"
+    }
+
+}

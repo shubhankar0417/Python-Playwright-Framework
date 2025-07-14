@@ -1,0 +1,13 @@
+{
+    "error_messages": {
+        "msgOne": "We welcome your feedback - but we won't get it unless you complete the form correctly.",
+        "msgTwo": "Forename is required",
+        "msgThree": "Email is required",
+        "msgFour": "Message is required"
+    },
+    "mandatory_fields": {
+        "forename": "Random User",
+        "email": "randomuser@nowhere.com",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+}
